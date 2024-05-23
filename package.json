@@ -1,0 +1,19 @@
+{
+  "name": "samba",
+  "version": "1.0.0",
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  },
+  "description": "web delopment",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web_development"
+  },
+  "author": "",
+  "license": "ISC"
+}
